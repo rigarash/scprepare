@@ -1,17 +1,17 @@
-# install
+# scprepare
 
-install - Setting up OSS software environment
+scprepare - Setting up OSS software environment on supercomputer
 
-## Setting up 'install'
+## Setting up 'scprepare'
 
 ```sh
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/rigarash/install/master/bootstrap)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/rigarash/scprepare/master/bootstrap)"
 ```
 
 or
 
 ```sh
-sh -c "$(wget -O - https://raw.githubusercontent.com/rigarash/install/master/bootstrap)"
+sh -c "$(wget -O - https://raw.githubusercontent.com/rigarash/scprepare/master/bootstrap)"
 ```
 
 ## AUTHOR
